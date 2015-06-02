@@ -1,10 +1,10 @@
 {
-  "name": "spa-boilerplate",
+  "name": "react-tutorial",
   "author": "Chad Jewsbury",
-  "description": "A Single Page App Boilerplate Setup",
+  "description": "React Tutorial from Facebook's documentation",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jewsroch/spa-boilerplate"
+    "url": "https://github.com/jewsroch/react-tutorial"
   },
   "devDependencies": {
     "browserify": "^6.3.4",
@@ -38,9 +38,9 @@
     "require-dir": "^0.3.0"
   },
   "bugs": {
-    "url": "https://github.com/jewsroch/spa-boilerplate/issues"
+    "url": "https://github.com/jewsroch/react-tutorial/issues"
   },
-  "homepage": "https://github.com/jewsroch/spa-boilerplate",
+  "homepage": "https://github.com/jewsroch/react-tutorial",
   "version": "1.0.0",
   "main": "gulpfile.js",
   "directories": {
