@@ -1,0 +1,21 @@
+{
+  "name": "spa-boilerplate",
+  "version": "0.0.0",
+  "homepage": "https://github.com/jewsroch/spa-boilerplate",
+  "authors": [
+    "Chad Jewsbury <chadjewsbury@gmail.com>"
+  ],
+  "description": "SPA Boilerplate",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass-official": "~3.3.4",
+    "fontawesome": "~4.3.0"
+  }
+}
